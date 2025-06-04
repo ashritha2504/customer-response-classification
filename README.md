@@ -41,6 +41,6 @@ This project builds a machine learning model to predict whether a customer will 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-response-classification.git
+   git clone https://github.com/ashritha2504/customer-response-classification.git
 
 
